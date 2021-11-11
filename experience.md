@@ -1,5 +1,5 @@
 ---
-layout: experience
+layout: work
 title: Experience
 slug: /experience
 items:
