@@ -6,8 +6,11 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Hi! I'm Alexander Bai (白与尘). Welcome to my Homepage.
 </p>
+
+<p>
+  I'm currently a freshman at Tufts University. 
 
 <p>
   You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
