@@ -10,5 +10,7 @@ profile_picture:
 </p>
 
 <p>
-  I'm currently a freshman at Tufts University. 
+  I'm currently a freshman at Tufts University. During 20-21 academic year, I took
+  classes at Peking University. I'm interested in Computer Science (especially programming
+  languages though I know little about it) and philosophy (knowing very little about it too).
 </p>
